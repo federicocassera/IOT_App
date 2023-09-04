@@ -1,0 +1,5 @@
+super
+8
+temperatura
+umidità
+co2
